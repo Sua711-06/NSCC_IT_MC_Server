@@ -1,0 +1,23 @@
+{
+  "values": [
+    "suppsquared:item_shelf_spruce",
+    "suppsquared:item_shelf_birch",
+    "suppsquared:item_shelf_jungle",
+    "suppsquared:item_shelf_acacia",
+    "suppsquared:item_shelf_dark_oak",
+    "suppsquared:item_shelf_mangrove",
+    "suppsquared:item_shelf_crimson",
+    "suppsquared:item_shelf_warped",
+    "suppsquared:quark/item_shelf_bamboo",
+    "suppsquared:quark/item_shelf_azalea",
+    "suppsquared:quark/item_shelf_ancient",
+    "suppsquared:quark/item_shelf_blossom",
+    "suppsquared:ecologics/item_shelf_flowering_azalea",
+    "suppsquared:ecologics/item_shelf_azalea",
+    "suppsquared:ecologics/item_shelf_coconut",
+    "suppsquared:ecologics/item_shelf_walnut",
+    "suppsquared:mynethersdelight/item_shelf_powdery",
+    "suppsquared:endergetic/item_shelf_poise",
+    "supplementaries:item_shelf"
+  ]
+}

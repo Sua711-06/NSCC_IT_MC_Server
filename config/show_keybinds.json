@@ -1,0 +1,21 @@
+{
+  "general": {
+    "loggedInToasts": true,
+    "hotBarHeight": 0,
+    "enableHotBarText": true,
+    "offHandText": false,
+    "shadowedText": true,
+    "rainBowText": false,
+    "rainbowColorSpeed": 2500,
+    "hotBarTextColor": 16777215,
+    "itemCountColor": 16777215,
+    "hotBarScale": 1.0
+  },
+  "container": {
+    "enableContainerText": true,
+    "shadowedText": true,
+    "rainBowText": false,
+    "containerTextColor": 16777045,
+    "containerScale": 1.0
+  }
+}
